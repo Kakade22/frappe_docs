@@ -4,16 +4,15 @@
 > 
 > You can directly contribute to the documentation through [frappeframework.com](https://frappeframework.com/). For new contribution guidelines, refer to [frappeframework.com/contribute](https://frappeframework.com/contribute).
 
-This is the repository for the Frappe Framework Documentation. Learn more about
+This repository contains the official documentation for the Frappe Framework. To learn more, visit the official website or explore the GitHub repository.
 Frappe Framework on the [official website](https://frappeframework.com) and the
 [GitHub repository](https://github.com/frappe/frappe).
 
-This documentation is hosted on [https://frappeframework.com/docs](https://frappeframework.com/docs).
+The documentation is available online at[https://frappeframework.com/docs](https://frappeframework.com/docs).
 
 ## Local Setup
 
-To create a local working copy of the documentation (primarily for purposes of
-contributing to the documentation):
+To set up a local working copy of the documentation (mainly for contributing):
 
 1. Install `frappe-bench` and setup a bench directory by following the
    [Installation Steps](https://frappeframework.com/docs/user/en/installation).
